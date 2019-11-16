@@ -43,6 +43,8 @@
                 </executions>
 
             </plugin>
+
+            <!-- 打包可运行的jar -->
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
                 <configuration>
